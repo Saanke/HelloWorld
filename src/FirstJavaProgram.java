@@ -6,11 +6,10 @@ public class FirstJavaProgram {
 System.out.println("hello world");
 System.out.println("cheanged next time");
 System.out.println("its working fine");
-<<<<<<< HEAD
 System.out.println("how to do it on at time i want to do it");
-=======
 System.out.println("at time commit");
->>>>>>> origin/master
+System.out.println("at partical leve problem");
+
 	}
 
 }
